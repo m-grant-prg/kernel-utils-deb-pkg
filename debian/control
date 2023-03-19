@@ -1,0 +1,16 @@
+Source: kernel-utils
+Section: misc
+Priority: extra
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper (>= 12~), bash (>= 4.3),
+	txt2man(>= 1.5), txt2manwrap (>=1.0)
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/kernel-utils.git
+Vcs-Browser: https://github.com/m-grant-prg/kernel-utils
+
+Package: kernel-utils
+Architecture: all
+Depends: bash (>= 4.3), util-linux(>=2.25.2), ${misc:Depends}
+Description: Kernel utilities.
+ Includes:-
+ Scripts to streamline the kernel build process.
