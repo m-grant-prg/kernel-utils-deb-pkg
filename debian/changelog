@@ -1,9 +1,9 @@
-kernel-utils (1.1.2+deb11u3) UNRELEASED; urgency=medium
+kernel-utils (1.1.2+deb11u3) bullseye; urgency=medium
 
   * Update Copyright for 2023.
   * Update watch file to use git mode.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 19 Mar 2023 08:36:00 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 19 Mar 2023 08:37:25 +0000
 
 kernel-utils (1.1.2+deb11u2) bullseye; urgency=medium
 
