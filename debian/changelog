@@ -1,3 +1,9 @@
+kernel-utils (1.1.2+deb11u3) UNRELEASED; urgency=medium
+
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 19 Mar 2023 08:36:00 +0000
+
 kernel-utils (1.1.2+deb11u2) bullseye; urgency=medium
 
   * Upgrade to compatibility level 13.
