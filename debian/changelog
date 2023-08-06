@@ -3,6 +3,7 @@ kernel-utils (1.1.2+deb11u4) UNRELEASED; urgency=medium
   * Correct hidden support file versions.
   * Correct Copyright dates.
   * Remove txt2man, rely on txt2manwrap dependencies
+  * Update watch file to support ~.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 15:00:05 +0100
 
