@@ -4,6 +4,7 @@ kernel-utils (1.1.2-0ubuntu20.04u3) UNRELEASED; urgency=medium
   * Correct Copyright dates.
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Change Debian source format to native.
+  * Update watch file to support ~.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 15:51:39 +0100
 
