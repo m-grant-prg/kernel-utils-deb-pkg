@@ -1,4 +1,4 @@
-kernel-utils (1.1.2-0ubuntu20.04u3) UNRELEASED; urgency=medium
+kernel-utils (1.1.2-0ubuntu20.04u3) focal; urgency=medium
 
   * Correct hidden support file versions.
   * Correct Copyright dates.
@@ -6,7 +6,7 @@ kernel-utils (1.1.2-0ubuntu20.04u3) UNRELEASED; urgency=medium
   * Change Debian source format to native.
   * Update watch file to support ~.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 15:51:39 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 15:57:52 +0100
 
 kernel-utils (1.1.2-0ubuntu20.04u2) focal; urgency=medium
 
