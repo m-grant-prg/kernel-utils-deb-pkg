@@ -2,6 +2,7 @@ kernel-utils (1.2.1+deb12u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
   * Remove txt2man, rely on txt2manwrap dependencies.
+  * Correct Copyright dates.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 16:02:26 +0100
 
