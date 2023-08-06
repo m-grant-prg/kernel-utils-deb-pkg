@@ -1,3 +1,9 @@
+kernel-utils (1.1.2+deb11u4) UNRELEASED; urgency=medium
+
+  * Correct hidden support file versions.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 15:00:05 +0100
+
 kernel-utils (1.1.2+deb11u3) bullseye; urgency=medium
 
   * Update Copyright for 2023.
