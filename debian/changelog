@@ -1,4 +1,4 @@
-kernel-utils (1.2.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+kernel-utils (1.2.1-0ubuntu22.04u1) jammy; urgency=medium
 
   * Merge new upstream release.
   * Remove txt2man, rely on txt2manwrap dependencies.
@@ -6,7 +6,7 @@ kernel-utils (1.2.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
   * Change Debian source format to native.
   * Update watch file to support ~.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 07 Aug 2023 09:36:15 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 07 Aug 2023 09:42:46 +0100
 
 kernel-utils (1.1.2-0ubuntu22.04u2) jammy; urgency=medium
 
