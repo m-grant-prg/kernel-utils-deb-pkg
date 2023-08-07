@@ -3,6 +3,7 @@ kernel-utils (1.2.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
   * Merge new upstream release.
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Correct upstream Copyright dates.
+  * Change Debian source format to native.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Mon, 07 Aug 2023 09:36:15 +0100
 
