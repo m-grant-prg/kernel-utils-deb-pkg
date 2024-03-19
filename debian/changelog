@@ -1,3 +1,18 @@
+kernel-utils (1.2.2~rc1+deb12u1) bookworm; urgency=medium
+
+  * New upstream development release
+  * Remove versions from Depends fields, too old
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 19 Mar 2024 07:55:07 +0000
+
 kernel-utils (1.2.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
