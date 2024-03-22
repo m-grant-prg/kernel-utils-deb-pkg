@@ -1,3 +1,9 @@
+kernel-utils (1.2.2~rc2+deb12u1) bookworm; urgency=medium
+
+  * New upstream development release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 22 Mar 2024 10:40:49 +0000
+
 kernel-utils (1.2.2~rc1+deb12u1) bookworm; urgency=medium
 
   * New upstream development release
@@ -11,7 +17,7 @@ kernel-utils (1.2.2~rc1+deb12u1) bookworm; urgency=medium
   * Add lintian override for watch file
   * Silence lintian changelog-file-missing-explicit-entry warning
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 19 Mar 2024 07:55:07 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 22 Mar 2024 10:40:08 +0000
 
 kernel-utils (1.2.1+deb12u1) bookworm; urgency=medium
 
