@@ -1,0 +1,266 @@
+kernel-utils (1.2.2+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Remove versions from Depends fields, too old
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 05 May 2024 09:32:59 +0100
+
+kernel-utils (1.2.1+deb13u1) trixie; urgency=medium
+
+  * Create testing branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 16:13:54 +0100
+
+kernel-utils (1.2.1+deb12u1) bookworm; urgency=medium
+
+  * Merge new upstream release.
+  * Remove txt2man, rely on txt2manwrap dependencies.
+  * Correct Copyright dates.
+  * Update watch file to support ~.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 06 Aug 2023 16:09:05 +0100
+
+kernel-utils (1.1.2+deb11u3) bullseye; urgency=medium
+
+  * Update Copyright for 2023.
+  * Update watch file to use git mode.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 19 Mar 2023 08:37:25 +0000
+
+kernel-utils (1.1.2+deb11u2) bullseye; urgency=medium
+
+  * Upgrade to compatibility level 13.
+  * Update debian/* Copyright for 2022.
+  * Add Depends on OBS signing key package.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 29 Nov 2022 09:59:24 +0100
+
+kernel-utils (1.1.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Reviewed up to current standards version 4.5.1
+  * Correct license in copyright.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 24 Nov 2021 09:01:24 +0000
+
+kernel-utils (1.1.1-deb11u1) bullseye; urgency=medium
+
+  * Create bullseye branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Aug 2021 10:28:23 +0100
+
+kernel-utils (1.1.1-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 03 Jul 2021 10:28:23 +0100
+
+kernel-utils (1.1.0+rc2-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 05 Mar 2021 10:13:56 +0000
+
+kernel-utils (1.1.0+rc1-deb10u2) buster; urgency=medium
+
+  * Upgrade to compatibility level 12.
+  * Package reviewed up to current standards version 4.3.0.
+  * Update Debian files copyright for 2020.
+  * Update tarball virtual host.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 25 Oct 2020 10:55:48 +0000
+
+kernel-utils (1.1.0+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 21 Dec 2019 14:24:48 +0000
+
+kernel-utils (1.1.0-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 17 Oct 2019 16:12:04 +0100
+
+kernel-utils (1.0.15+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+    Update watch file for new source tarball name.
+    Update watch file for new tarball repo name.
+    Update Copyright statements.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Oct 2019 14:55:22 +0100
+
+kernel-utils (1.0.15-deb10u1) buster; urgency=medium
+
+  * Rebuild for buster.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 22 Jul 2019 15:11:48 +0000
+
+kernel-utils (1.0.15-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update watch file to the latest standard.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 31 Oct 2018 15:58:48 +0000
+
+kernel-utils (1.0.14-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 19 Oct 2018 09:07:39 +0100
+
+kernel-utils (1.0.13-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 27 Aug 2018 09:26:20 +0100
+
+kernel-utils (1.0.12-deb9u2) stretch; urgency=medium
+
+  * Change architecture to all as this package is architecture independent.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 24 Aug 2018 09:22:04 +0100
+
+kernel-utils (1.0.12-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 29 Apr 2018 15:15:04 +0100
+
+kernel-utils (1.0.11-deb9u2) stretch; urgency=medium
+
+  * Accommodate change to directory where source tarball is found on hermes.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Apr 2018 07:17:07 +0100
+
+kernel-utils (1.0.11-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 10 Apr 2018 08:38:41 +0100
+
+kernel-utils (1.0.10-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2018 10:20:20 +0000
+
+kernel-utils (1.0.9-4-gd7ec16c-mgent2) stretch; urgency=medium
+
+  * Remove unnecessary Depends ${shlibs:Depends} in control file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2018 10:18:56 +0000
+
+kernel-utils (1.0.9-4-gd7ec16c-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 10 Feb 2018 09:29:56 +0000
+
+kernel-utils (1.0.9-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 08 Dec 2017 10:30:37 +0000
+
+kernel-utils (1.0.8-1mgent2) stretch; urgency=medium
+
+  * Correct copyright file to GPLv3..
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Nov 2017 09:27:20 +0100
+
+kernel-utils (1.0.8-1mgent1) stretch; urgency=medium
+
+  * Update Maintainers string.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 23 Oct 2017 09:52:20 +0100
+
+kernel-utils (1.0.8-1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 28 Aug 2017 10:40:20 +0100
+
+kernel-utils (1.0.7-1-g1d85059-1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Mon, 28 Aug 2017 09:52:08 +0100
+
+kernel-utils (1.0.7-0mgent3) stretch; urgency=medium
+
+  * Correct Maintainers string in changelog.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 19 Aug 2017 15:51:22 +0100
+
+kernel-utils (1.0.7-0mgent2) stretch; urgency=medium
+
+  * Change package version format for move to Debian.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 13 Aug 2017 09:17:22 +0100
+
+kernel-utils (1.0.7-0ubuntu1) zesty; urgency=medium
+
+  * New upstream release.
+    No functional or bug fix changes.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sat, 01 Jul 2017 13:47:22 +0100
+
+kernel-utils (1.0.6-0ubuntu2) zesty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Thu, 29 Jun 2017 10:52:09 +0100
+
+kernel-utils (1.0.5-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Mon, 01 May 2017 14:19:52 +0100
+
+kernel-utils (1.0.4-7-g00a453c-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 30 Apr 2017 13:57:35 +0100
+
+kernel-utils (1.0.4-2-g502a720-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Fri, 24 Feb 2017 09:43:58 +0000
+
+kernel-utils (1.0.4-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Tue, 12 Jul 2016 11:07:06 +0100
+
+kernel-utils (1.0.3-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 09 Jul 2016 10:52:55 +0100
+
+kernel-utils (1.0.2-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Fri, 08 Jul 2016 11:15:44 +0100
+
+kernel-utils (1.0.1-0ubuntu1) xenial; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Thu, 07 Jul 2016 15:42:51 +0100
