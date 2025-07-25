@@ -3,7 +3,7 @@ Upstream-Name: kernel-utils
 Source: https://github.com/m-grant-prg/kernel-utils
 
 Files: *
-Copyright: (C) 2016-2019, 2021-2024 Mark Grant <m.grant.prg@gmail.com>
+Copyright: (C) 2016-2019, 2021-2025 Mark Grant <m.grant.prg@gmail.com>
 License: GPL-3.0-only
 
 Files: debian/*
